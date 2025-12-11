@@ -1,11 +1,11 @@
 # MedForget: Hierarchy-Aware Multimodal Unlearning Testbed for Medical AI
 
-[![arXiv](https://img.shields.io/badge/arXiv-Report-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2511.14086)
+[![arXiv](https://img.shields.io/badge/arXiv-Report-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org)
 
 **Authors:** Fengli Wu, Vaidehi Patil, Jaehong Yoon, Yue Zhang, Mohit Bansal
 
 ![image](./asset/teaser.png)
-Figure: MEDFORGET enables hierarchical multimodal unlearning. Unlike existing unlearning benchmarks that adopt a flat structure, treating all data points as independent and unconnected, MEDFORGET introduces a clinically inspired hierarchical organization (Institution → Patient → Study → Section). This structure mirrors the organization of real-world medical data and supports the systematic evaluation of selective unlearning across multiple granularities. Models can thus be fine-tuned and unlearned at varying hierarchy levels, enabling analysis of how forgetting propagates across semantically and structurally related entities.
+Figure: MedForget enables hierarchical multimodal unlearning. Unlike existing unlearning benchmarks that adopt a flat structure, treating all data points as independent and unconnected, MedForget introduces a clinically inspired hierarchical organization (Institution → Patient → Study → Section). This structure mirrors the organization of real-world medical data and supports the systematic evaluation of selective unlearning across multiple granularities. Models can thus be fine-tuned and unlearned at varying hierarchy levels, enabling analysis of how forgetting propagates across semantically and structurally related entities.
 
 ## Requirements
 
