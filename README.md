@@ -1,6 +1,6 @@
 # MedForget: Hierarchy-Aware Multimodal Unlearning Testbed for Medical AI
 
-[![arXiv](https://img.shields.io/badge/arXiv-Report-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org)
+[![arXiv](https://img.shields.io/badge/arXiv-2512.09867-b31b1b.svg)](http://arxiv.org/abs/2512.09867)
 
 **Authors:** Fengli Wu, Vaidehi Patil, Jaehong Yoon, Yue Zhang, Mohit Bansal
 
@@ -68,7 +68,8 @@ Results are saved in `eval_results_LEVEL_TIMESTAMP/`:
 @article{wu2025medforget,
     title={MedForget: Hierarchy-Aware Multimodal Unlearning Testbed for Medical AI},
     author={Fengli Wu and Vaidehi Patil and Jaehong Yoon and Yue Zhang and Mohit Bansal},
-    journal={arXiv preprint},
-    year={2025}
+    journal={arXiv preprint arXiv:2512.09867},
+    year={2025},
+    url={https://arxiv.org/abs/2512.09867}
 }
 ```
